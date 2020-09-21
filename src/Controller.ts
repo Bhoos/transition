@@ -52,7 +52,7 @@ export class Controller<S, A> {
     });
   }
 
-  dispatch(action: A) {
+  dispatch = (action: A) => {
     if (this.running > 0) {
       this.queue.push(action);
       return;
