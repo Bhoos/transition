@@ -1,0 +1,14 @@
+{
+  "name": "@bhoos/transition",
+  "version": "1.0.0",
+  "description": "React transition library",
+  "main": "src/index.ts",
+  "react-native": "src/index.ts",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "author": "Ranjan Shrestha",
+  "license": "MIT",
+  "private": true
+}
