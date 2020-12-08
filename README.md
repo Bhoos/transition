@@ -1,4 +1,5 @@
 # Transition Library
+NOTE: Moved v2 to @bhoos/react-kit
 
 ## Hooks
 * `useTransition`: Register an animation to run based on state changes
